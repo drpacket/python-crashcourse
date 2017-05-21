@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"listy",
+				"listy_girl\tstatement"
+			],
+			[
+				"l",
+				"listy_girl\tstatement"
+			],
+			[
+				"new",
+				"new_places\tstatement"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"a",
+				"always"
+			],
+			[
+				"popped",
+				"popped_guest"
+			],
+			[
+				"guest",
+				"guest_list"
+			],
+			[
+				"gu",
+				"guest_list"
+			],
+			[
+				"f",
+				"friend"
+			],
+			[
+				"fav",
+				"fav_num"
+			],
+			[
+				"st",
+				"stripped"
+			],
+			[
+				"famous",
+				"famous_quote"
+			],
+			[
+				"famou",
+				"famous_person"
+			],
+			[
+				"python",
+				"python-crashcourse_work"
+			],
+			[
+				"var_te",
+				"var_text02"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-synthesis"
+			],
+			[
+				"d",
+				"def\tFunction"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font-v",
+				"font-variant"
+			],
+			[
+				"p",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "py_crash2-2_simplemessages.py",
+			"settings":
+			{
+				"buffer_size": 264,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mellowcat/Dropbox/github/python/list_index_forl.py",
+			"settings":
+			{
+				"buffer_size": 432,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Anaconda",
+				"Anaconda: Show error list"
+			],
+			[
+				"Auto",
+				"Anaconda: Previous lint error"
+			],
+			[
+				"Pyt",
+				"Build With: Python3"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: For Loop"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"print(\"hey fuckup!\")",
+			"print(\"hey fuckup!\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mellowcat/Dropbox/github/python-crashcourse/Package Control Messages",
+		"/Users/mellowcat/Dropbox/github/python-crashcourse/py_crash3-4_guestlist.py",
+		"/Users/mellowcat/Dropbox/github/python-crashcourse/python_crashcourse.sublime-project",
+		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash3-8_seeingtheworld.py",
+		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash3-9_dinnerguest.py",
+		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash3-10_everyfunction.py",
+		"/Users/mellowcat/Dropbox/github/python/count_a_in_string.py",
+		"/Users/mellowcat/Dropbox/github/python/untitled01.css",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/mellowcat/Dropbox/github/python/countdown_allversions.py",
+		"/Users/mellowcat/Dropbox/github/python/Fingerex-guttag3-3p25.py",
+		"/Users/mellowcat/Dropbox/github/python/count_listitems_indict.py",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/mellowcat/Dropbox/github/python/vowel_count.py",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/mellowcat/Dropbox/github/online-courses/6001x_python3/hangman_game.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/6001x_python3/ps1_b.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/mit_600x/code/6001x_problemset2abc_Solutions.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/6001x_python3/ps1_c.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/6001x_python3/ps2.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/6001x_python3/ps1_a.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/6001x_python3/ps1.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/mit_600x/code/6001x_problemset1c_gottinger.py",
+		"/Users/mellowcat/Dropbox/github/python/dicts_final4challenges_clean.py",
+		"/Users/mellowcat/Dropbox/github/python/codecademy_old/codecademy_booleanops_overview.py",
+		"/Users/mellowcat/Dropbox/github/python/boolean_operators.py",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mellowcat/Dropbox/github/python/dicts_final4_challenges.py",
+		"/Users/mellowcat/Dropbox/github/python/string_factory.py",
+		"/Users/mellowcat/Dropbox/github/python/test.py",
+		"/Users/mellowcat/Dropbox/github/python/stats_fuct.py",
+		"/Users/mellowcat/Dropbox/github/python/most_classes.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/mit_600x/code/dict_invert.py",
+		"/Users/mellowcat/Dropbox/github/python/wordcount_dict.py",
+		"/Users/mellowcat/Dropbox/github/python/treehouse_slices.py",
+		"/Users/mellowcat/Dropbox/github/python/shopping_list_altversion.py",
+		"/Users/mellowcat/Dropbox/github/python/sillycase.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/mit_600x/code/6.00x_Problem-Set6_lastmin_a.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/mit_600x/code/dealing_with_hands.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/mit_600x/code/Hangman_part1_iswordguessed.py",
+		"/Users/mellowcat/Dropbox/github/python/factorial_iter_vs_recur.py",
+		"/Users/mellowcat/Dropbox/github/python/shut_down.py",
+		"/Users/mellowcat/Dropbox/github/python/piglattranslate.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/ps6_solution-A_2015_messed.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/ps6_solution-A_2015.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/pset-6-encryption.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/ps6/pset6_message_class.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/6.00x_Problem-Set6_lastmin_a.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/ps6/ps6_new/ps6-encrypt.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/Exam/dict_invert(d).py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/ps6/ps6_work.py",
+		"/Users/mellowcat/Dropbox/github/python/turtle_square02.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/ps6/ps6.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/radiationExposure.py",
+		"/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Resources/AMT/de_DE/AMT.zdct",
+		"/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Resources/AMT/application.sif",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/Quiz_1x/Quiz_Problem4.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/edx_600.1x/code__1x/playing_a_game.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash3-8_seeingtheworld.py",
+		"/Users/mellowcat/Dropbox/github/edx_mit600.x/.gitignore",
+		"/Users/mellowcat/github/edx_mit600.x/.gitignore",
+		"/Users/mellowcat/Dropbox/python-crashcourse/py_crash29_favoritenumber.py",
+		"/Users/mellowcat/Dropbox/python-crashcourse/py_crash23_personalmessage.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash3-4_guestlist.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash3-5_changingguestlist.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash3-6_moreguests.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash3-7_shrinkingguestlist.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash3-2_greetings.py",
+		"/Users/mellowcat/github/python-crashcourse/untitled.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash3-3_yourownlist.py",
+		"/Users/mellowcat/Desktop/IT-Techniker_Wifi-LAP_Certifications.txt",
+		"/Users/mellowcat/github/python-crashcourse/IT-Techniker_Wifi-LAP_Certifications.rtf",
+		"/Users/mellowcat/github/python-crashcourse/IT-Certifications_Wifi_LAP.rtf",
+		"/Users/mellowcat/github/python-crashcourse/py_crash3-1_names.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash2.11_zenofpython.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash29_favoritenumber.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash2.10_addingcomments.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash28_numbereight.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash27_strippingnames.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash26_famousquote02.py",
+		"/Users/mellowcat/github/python-crashcourse/test_if_py27.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash22_simplemessages.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash21_simplemessage.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash23_personalmessage.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash24_namecases.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash25_famousquote.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash25_famousquote02.py",
+		"/Users/mellowcat/github/python-crashcourse/py_crash25_famousquote02orig.py",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/mellowcat/github/python-crashcourse/hello_world.py",
+		"/Users/mellowcat/github/python-crashcourse/python_crashcourse21.py",
+		"/Users/mellowcat/projects/code/python/my-Hosts-git.py",
+		"/Users/mellowcat/projects/Sites/codecademyindex02.html",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Python2canopy.sublime-build",
+		"/Users/mellowcat/github/python_crashcourse/hello_world.py",
+		"/Users/mellowcat/Projects/code/git_practice/python_crashcourse/hello_world.py",
+		"/Users/mellowcat/github/python_crashcourse/.gitignore",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/Users/mellowcat/Projects/code/git_practice/.gitignore",
+		"/Users/mellowcat/Projects/code/python_crashcourse/python_crashcourse21",
+		"/Users/mellowcat/Projects/code/python_crashcourse/python_crashcourse21.py",
+		"/Users/mellowcat/Projects/code/html_css_practice/sprite-action-black.css",
+		"/Users/mellowcat/Projects/code/python_crashcourse/python_crashcourse22.py",
+		"/Users/mellowcat/Projects/code/python_crashcourse/hello_world.py",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Python2_Canopy.sublime-build",
+		"/Users/mellowcat/Documents/code/edX/MIT_6001x/code_6001x/Sublime-Text",
+		"/Users/mellowcat/Documents/code/edX/MIT_6001x/code_6001x/Hangman_part1_printletters.py",
+		"/Users/mellowcat/finger.conf",
+		"/Users/mellowcat/Documents/code/edX/MIT_6001x/code_6001x/Hand_length.py",
+		"/Users/mellowcat/Documents/code/python_crashcourse/hello_world.py",
+		"/Projects/Code/html_css_js-webdevelopment/fullstack-course4-master/examples/Lecture20/background-after.html",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Canopy_Python.sublime-build",
+		"/Projects/Code/html_css_js-webdevelopment/style.css",
+		"/Projects/Code/html_css_js-webdevelopment/fullstack-course4-master/examples/Lecture20/background-before.html",
+		"/Projects/Code/edX/MIT_6001x/Hangman_part2_TheGameandComplextests.py",
+		"/Projects/Code/html_css_js-webdevelopment/fullstack-course4-master/examples/Lecture18/font-size-before.html",
+		"/Projects/Code/html_css_js-webdevelopment/fullstack-course4-master/examples/Lecture18/styling-text-after.html",
+		"/Projects/Code/edX/MIT_6001x/Hangman_part1_printletters.py",
+		"/Projects/Code/html_css_js-webdevelopment/fullstack-course4-master/examples/Lecture14/child-selector-after.html",
+		"/Projects/Code/css_quicktest_site/style.css",
+		"/Projects/Code/css_quicktest_site/index.html",
+		"/Users/mellowcat/Documents/edX/MIT_6001x/Ch02even_odd.py",
+		"/Projects/Code/CSS/bootstrap-theme-workcopy.css",
+		"/Projects/Code/html_css_js-webdevelopment/Recommended-Books.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[",
+			"#",
+			"cat",
+			"#content",
+			"# *********************************\n# *********************************\n# **edX MIT6.00.1x*****Quiz********\n# **Due Date:Feb.16-2016-23:30 UTC*\n# *********************************\n# *********************************\n# ******** The Quiz:      *********\n# ******** Problem 4      *********\n# *********************************"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "py_crash2-2_simplemessages.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/mellowcat/Dropbox/github/python/list_index_forl.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 191.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "python_crashcourse.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"14",
+				"edx_600.1x/Quiz_1x/Quiz_Problem4.py"
+			],
+			[
+				"",
+				"Hand_length.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
