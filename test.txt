@@ -1,0 +1,5 @@
+This is a TEST file. USed to test the Differences between the working-area
+of the two git-branches: *master and *test.
+THIS IS THE TEST BRANCH !!!
+
+
